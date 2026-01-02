@@ -31,15 +31,15 @@ Text-To-Speech-Converter/
 ├── script.js         # JavaScript logic for text-to-speech
 │
 └── images/           # Assets used in the project
-    ├── icon.png
-    └── background.jpg
+    ├── listen.png
+    └── dropdown.jpg
 
 
 🚀 How to Run the Project
 
 Clone the repository
 
-git clone https://github.com/beetlejuice0/text-to-speech-converter.git
+git clone https://github.com/beetlejuice0/text-to-speech.git
 
 or 
 
